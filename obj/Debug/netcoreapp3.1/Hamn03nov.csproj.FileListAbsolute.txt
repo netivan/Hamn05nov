@@ -1,0 +1,13 @@
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.exe
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.deps.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.runtimeconfig.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.runtimeconfig.dev.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.dll
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\bin\Debug\netcoreapp3.1\Hamn03nov.pdb
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.csprojAssemblyReference.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.AssemblyInfoInputs.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.AssemblyInfo.cs
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.csproj.CoreCompileInputs.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.dll
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.pdb
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn03nov\Hamn03nov\obj\Debug\netcoreapp3.1\Hamn03nov.genruntimeconfig.cache
